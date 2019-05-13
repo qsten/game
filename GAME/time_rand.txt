@@ -1,0 +1,4 @@
+nn	230
+k	44
+jason	0
+game	0
